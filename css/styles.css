@@ -41,9 +41,11 @@ ul,ol{margin-top: 0;
     font-style: normal;
   }
    .container{
-   width: 1440px; 
+   width: 1170px; 
    margin-left: auto;  
    margin-right: auto;
+   padding-left: 15px;
+   padding-right: 15px;
    }   
   .navigation-item:hover,
   .navigation-item:focus {
