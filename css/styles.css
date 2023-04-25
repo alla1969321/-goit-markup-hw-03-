@@ -282,7 +282,7 @@ color: #2E2F42 ;
    flex-wrap: wrap;
    justify-content:space-between;
  }
- .mark:not(:nth-child(3n)){
+ .mark:not(:nth-child(4n)){
    margin-right: 24px;
  }
  .section-description{
