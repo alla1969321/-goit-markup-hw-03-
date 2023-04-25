@@ -49,10 +49,15 @@ ul,ol{margin-top: 0;
    }
    .page-header-container{
       display:flex;
+      align-items: center;
    }
   .navigation-item:hover,
   .navigation-item:focus {
    color: #404bbf;
+  }
+
+  .navigation{
+   display:flex;
   }
 .navigation-link
 {
