@@ -82,7 +82,10 @@ margin-right:40px;
 .navigation-link:focus {
    color: #404bbf;
 }
-
+.header{
+   padding-top:24px;
+   padding-bottom: 24px;
+}
 .logo{margin-right: 71px;
    margin-left:156px;
  font-family: "Raleway",sans-serif;
