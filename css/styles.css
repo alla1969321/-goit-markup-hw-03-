@@ -55,7 +55,11 @@ ul,ol{margin-top: 0;
   .navigation-item:focus {
    color: #404bbf;
   }
-  
+ 
+  .navigation {
+   display:flex;
+   align-items: center;
+  }
   .menu{
    display:flex;
    align-items: center;
