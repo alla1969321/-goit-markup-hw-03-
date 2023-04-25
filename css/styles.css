@@ -20,6 +20,9 @@ ul,ol{margin-top: 0;
    margin-botton: 0;
    padding-left: 0;
  }
+ img{
+   display: block;
+ }
 .list{
    list-style: none;
    text-decoration: none
