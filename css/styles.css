@@ -46,7 +46,10 @@ ul,ol{margin-top: 0;
    margin-right: auto;
    padding-left: 15px;
    padding-right: 15px;
-   }   
+   }
+   .page-header-container{
+      display:flex;
+   }
   .navigation-item:hover,
   .navigation-item:focus {
    color: #404bbf;
