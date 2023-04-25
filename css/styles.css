@@ -280,11 +280,16 @@ color: #2E2F42 ;
  .section-title-People{
    display: flex;
    flex-wrap: wrap;
-   justify-content:space-between;
+   gap: 24px;
+   /* justify-content:space-between; */
+ }
+ ..mark{
+   gap: 24px;
  }
  .mark:not(:nth-child(4n)){
    margin-right: 24px;
  }
+ /* .mark:not(:nth-last-child(-n+4)) */
  .section-description{
   
 font-size: 16px;
