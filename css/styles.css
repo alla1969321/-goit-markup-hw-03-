@@ -171,7 +171,7 @@ color: #2E2F42;
    background-color: #404BBF;
          color: #FFFFFF;
        } 
-
+       
     
 .button{
      color: var(--primary-white-color);
@@ -200,13 +200,16 @@ color: #FFFFFF;
 .modal-button{
    font-family: "Roboto", sans-serif; 
    letter-spacing: 0.04em ;
-  
+  padding-top: 16px;
+  padding-right: 32px;
+  padding-bottom:16px;
+  padding-left: 32px;
    background-color: #4D5AE5;
    font-style: normal;
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
-    
+   align-items: center;
     color:#FFFFFF;
 }
 /*--section-three-- */
