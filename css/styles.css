@@ -286,6 +286,9 @@ color: #2E2F42 ;
  ..mark{
    gap: 24px;
  }
+ .mark{
+   flex-basis:calk((100%-72px)/4)
+ }
  .mark:not(:nth-child(4n)){
    margin-right: 24px;
  }
