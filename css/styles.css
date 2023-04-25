@@ -55,7 +55,11 @@ ul,ol{margin-top: 0;
   .navigation-item:focus {
    color: #404bbf;
   }
- 
+  .navigation-item:not(:last-child){
+margin-right:40px;
+  }
+
+
   .navigation {
    display:flex;
    align-items: center;
@@ -79,7 +83,8 @@ ul,ol{margin-top: 0;
    color: #404bbf;
 }
 
-.logo{
+.logo{margin-right: 71px;
+   margin-left:156px;
  font-family: "Raleway",sans-serif;
 font-style: normal;
 font-weight: 800;
