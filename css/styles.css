@@ -279,6 +279,7 @@ color: #2E2F42 ;
  }
  .section-title-People{
    display: flex;
+   justify-content:space-between;
  }
  
  .section-description{
