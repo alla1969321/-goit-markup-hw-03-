@@ -57,7 +57,8 @@ ul,ol{margin-top: 0;
    color: #404bbf;
   }
   .navigation-item:not(:last-child){
-margin-right:40px;
+margin-right:40px;}
+.navigation-item:{
 padding-top: 24px;
   }
 
