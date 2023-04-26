@@ -82,6 +82,7 @@ margin-right:40px;
 .navigation-link:focus {
    color: #404bbf;
 }
+/* header */
 .header{
    padding-top:24px;
    padding-bottom: 24px;
@@ -144,7 +145,7 @@ color: #2E2F42;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        margin-right: auto;
+        margin-left: auto;
         color: #434455;
         text-decoration: none;
       }
