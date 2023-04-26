@@ -357,9 +357,8 @@ background-color: #F4F4FD;
 cursor: pointer;}
 
  .site-nav-list{
-   
-    
-   
+   display:flex ;
+      
 }
 
 .site-nav-list:hover,
@@ -387,7 +386,9 @@ color: #2e2f42;
    
    color: #434455;
    } 
-   
+   .section-title{
+      display:flex ;  
+   }
    .section-title {background: #FFFFFF;}
    .section-title-description
 /* footer */
