@@ -141,6 +141,9 @@ color: #2E2F42;
 .adress{
    font-style: normal ; 
 }
+.mailto{
+   margin-right: 40px;
+}
 .adress-link{
          font-style: normal;
         
@@ -148,7 +151,7 @@ color: #2E2F42;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        margin-right: auto;
+        margin-left: auto;
         color: #434455;
         text-decoration: none;
       }
