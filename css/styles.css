@@ -41,7 +41,7 @@ ul,ol{margin-top: 0;
     font-style: normal;
   }
    .container{
-   width: 1440px; 
+   width: 1158px; 
    margin-left: auto;  
    margin-right: auto;
    padding-left: 15px;
@@ -58,6 +58,7 @@ ul,ol{margin-top: 0;
   }
   .navigation-item:not(:last-child){
 margin-right:40px;
+padding-top: 24px;
   }
 
 
@@ -90,7 +91,7 @@ margin-right:40px;
    padding-top:24px;
    padding-bottom: 24px;
 }
-.logo{margin-right: 71px;
+.logo{margin-right: 76px;
    margin-left:156px;
  font-family: "Raleway",sans-serif;
 font-style: normal;
@@ -146,7 +147,7 @@ color: #2E2F42;
 }
 .adress-link{
          font-style: normal;
-        
+        gap: 40px;
          font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -189,7 +190,7 @@ color: #2E2F42;
 /* /!--hero--/ */
 
 .hero
-{
+{padding-top: 188px;
    background-color:#2e2f42;
 }
 
