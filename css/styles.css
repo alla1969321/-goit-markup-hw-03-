@@ -59,7 +59,7 @@ ul,ol{margin-top: 0;
   .navigation-item:not(:last-child){
 margin-right:40px;}
 .navigation-item:{
-
+   
   }
 
 
@@ -73,8 +73,9 @@ margin-right:40px;}
    margin-right: auto;
    gap:40px;
   }
+  
 .navigation-link
-{padding-top: 24px;
+{
      font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
@@ -83,6 +84,7 @@ margin-right:40px;}
    
    color: #2E2F42;
    }
+
 .navigation-link:hover,
 .navigation-link:focus {
    color: #404bbf;
@@ -112,7 +114,7 @@ color: #4D5AE5;
    line-height: 1.17;
    letter-spacing: 0.03em;
    text-transform: uppercase ;
-   
+   padding-top: 24px;
    color: #2E2F42;
 }
 .studio{
