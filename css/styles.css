@@ -50,6 +50,7 @@ ul,ol{margin-top: 0;
    .page-header-container{
       display:flex;
       align-items: center;
+      justify-content:space-between ;
    }
   .navigation-item:hover,
   .navigation-item:focus {
@@ -68,6 +69,7 @@ margin-right:40px;
    display:flex;
    align-items: center;
    margin-right: auto;
+
   }
 .navigation-link
 {
