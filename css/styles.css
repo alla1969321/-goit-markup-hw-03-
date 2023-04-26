@@ -358,7 +358,7 @@ cursor: pointer;}
 
  .site-nav-list{
    display:flex ;
-      
+      align-items: center; 
 }
 
 .site-nav-list:hover,
@@ -387,10 +387,13 @@ color: #2e2f42;
    color: #434455;
    } 
    .section-title{
-      display:flex ;  
+      display:flex ; 
+      justify-content:space-between ; 
    }
    .section-title {background: #FFFFFF;}
-   .section-title-description
+   .section-title-description{
+
+   }
 /* footer */
 .target{
    font-weight: 400;
