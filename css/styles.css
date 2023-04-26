@@ -359,6 +359,7 @@ cursor: pointer;}
  .site-nav-list{
    display:flex ;
       align-items: center; 
+      
 }
 
 .site-nav-list:hover,
@@ -386,13 +387,18 @@ color: #2e2f42;
    
    color: #434455;
    } 
+   
    .section-title{
       display:flex ; 
-      justify-content:space-between ; 
+      
+      flex-wrap: wrap;
    }
    .section-title {background: #FFFFFF;}
-   .section-title-description{
-
+   .section-title-description:not(:nth-child)(3n){
+      margin-right:24px;
+   }
+   .section-title-description:not(:nth-child)(-n+3)){
+      margin-botton:48px;
    }
 /* footer */
 .target{
