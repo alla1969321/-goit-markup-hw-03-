@@ -323,7 +323,10 @@ color: #2E2F42 ;
  }
  ..mark{
    gap: 24px;
-   border-radius: 0px 0px 4px 4px;
+   border-top-left-radius: 0px;
+    border-top-right-radius: 0px ; 
+    border-top-right-radius: 4px; 
+    border-bottom-left-radius:4px;
  }
  .mark{
    flex-basis:calk((100%-72px)/4)
@@ -331,7 +334,7 @@ color: #2E2F42 ;
  .mark:not(:nth-child(4n)){
    margin-right: 24px;
  }
- /* .mark:not(:nth-last-child(-n+4)) */
+  .mark:not(:nth-last-child(-n+4)) 
  .section-description{
   
 font-size: 16px;
