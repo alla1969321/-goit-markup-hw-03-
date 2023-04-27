@@ -431,7 +431,7 @@ border-radius: 4px;}
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  
+  margin-bottom: 8px;
 color: #2e2f42;
 }
 .description-direction{
@@ -464,7 +464,7 @@ color: #2e2f42;
    padding: 32px 16px ;
    border: 1px solid #e7e9fc;
    border-top: none;
-   margin-bottom: 8px;
+   
   }
 /* footer */
 .page-footer-container{
