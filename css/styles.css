@@ -453,7 +453,7 @@ color: #2e2f42;
    }
    .section-title {background: #FFFFFF;}
    .section-title-description{
-      
+      width: calc((100% - 48px) / 3);
    }
    /*.section-title-description:not(:nth-child)(3n){
       margin-right:24px;
