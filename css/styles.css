@@ -401,9 +401,10 @@ cursor: pointer;
 padding: 12px 24px;
 border: 1px solid #e7e9fc;
 border-radius: 4px;}
+
 .button-filter:hover,
 .button-filter:focus{
-   border: 1px solid;
+   border: 1px solid transparent;
 }
  .site-nav-list{
    display:flex ;
