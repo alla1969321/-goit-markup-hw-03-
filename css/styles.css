@@ -321,7 +321,7 @@ color: #2E2F42 ;
    gap: 24px;
    /* justify-content:space-between; */
  }
- ..mark{
+ .mark{
    gap: 24px;
    border-top-left-radius: 0px;
     border-top-right-radius: 0px ; 
