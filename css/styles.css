@@ -269,9 +269,15 @@ color: #2E2F42;
 
 }
 /* section-three */
-.section-title{
-   margin-bottom: 72px; 
-}
+.section-title-three{ font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   text-transform: capitalize;
+  
+      color: #2e2f42;
+
+   margin-bottom: 72px; }
+
 /*--section-four-- */
 .mark{
    background-color: #FFFFFF;  
