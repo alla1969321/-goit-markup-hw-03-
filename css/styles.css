@@ -397,8 +397,14 @@ line-height: 1.5;
 letter-spacing: 0.04em;
     color: #4D5AE5;
 background-color: #F4F4FD;
-cursor: pointer;}
-
+cursor: pointer;
+padding: 12px 24px;
+border: 1px solid #e7e9fc;
+border-radius: 4px;}
+.button-filter:hover,
+.button-filter:focus{
+   border: 1px solid;
+}
  .site-nav-list{
    display:flex ;
       align-items: center;
