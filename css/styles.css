@@ -410,7 +410,8 @@ border-radius: 4px;}
    display:flex ;
       align-items: center;
       justify-content: center;
-      
+      gap: 24px;
+      margin-bottom: 72px;
       
 }
 
@@ -448,7 +449,7 @@ color: #2e2f42;
       flex-wrap: wrap;
       column-gap: 24px;
       /*row-gap: 48px;*/
-      margin-bottom: 72px;
+      /*margin-bottom: 72px;*/
    }
    .section-title {background: #FFFFFF;}
    .section-title-description{
