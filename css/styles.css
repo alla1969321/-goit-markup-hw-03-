@@ -447,6 +447,9 @@ color: #2e2f42;
       margin-botton:48px;*/
   
 /* footer */
+.page-footer-container{
+   padding: 100px 0; 
+}
 .target{
    font-weight: 400;
 font-size: 16px;
