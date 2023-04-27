@@ -195,7 +195,7 @@ color: #2E2F42;
 /* /!--hero--/ */
 
 .hero
-{
+{ padding-top: 188px;
    background-color:#2e2f42;
 }
 
@@ -207,7 +207,7 @@ Font-size:56px;
 Line-height:1.07;
 text-align: center;
 letter-spacing: 0.02em;
-padding-top: 188px;
+
 color: #FFFFFF;
 }
 .modal-button{
