@@ -279,7 +279,7 @@ color: #2E2F42;
    margin-bottom: 72px; }
 
 /*--section-four-- */
-.mark{
+.mark{ border-radius: 0px 0px 4px 4px;
    background-color: #FFFFFF;  
 }
 .section-title-People{
