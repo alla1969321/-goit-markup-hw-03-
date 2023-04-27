@@ -59,7 +59,7 @@ ul,ol{margin-top: 0;
   .navigation-item:not(:last-child){
 margin-right:40px;}
 .navigation-item:{
-   
+   padding: 24px 0 ;
   }
 
 
