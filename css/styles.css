@@ -194,7 +194,7 @@ color: #2E2F42;
 /* /!--hero--/ */
 
 .hero
-{padding-top: 188px;
+{
    background-color:#2e2f42;
 }
 
@@ -206,7 +206,7 @@ Font-size:56px;
 Line-height:1.07;
 text-align: center;
 letter-spacing: 0.02em;
- 
+padding-top: 188px;
 color: #FFFFFF;
 }
 .modal-button{
@@ -229,7 +229,9 @@ color: #FFFFFF;
    border-radius: 4px;
     color:#FFFFFF;
 }
-/*--section-three-- */
+
+
+/*--section-two-- */
 .section-title{
          font-size: 36px;
     line-height: 1.11;
@@ -238,10 +240,17 @@ color: #FFFFFF;
    
        color: #2e2f42;
  }
+ .feature-list{
+ display:flex;
+ gap: 24px;
+ }
+ .about-list-item{
+   width: calc((100% - 72px) / 4);
 
+ }
 /* section-two */
 .title-strategy{
-   
+   margin-bottom: 8px; 
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
