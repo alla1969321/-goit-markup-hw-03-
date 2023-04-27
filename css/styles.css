@@ -246,10 +246,14 @@ color: #FFFFFF;
  gap: 24px;
  
  }
- .about-list-item{
+ .list-item-link{
    width: calc((100% - 72px) / 4);
+ }
+ .about-list-item{
+   /* width: calc((100% - 72px) / 4); */
    
  }
+ .
 /* section-two */
 .title-strategy{
    margin-bottom: 8px; 
