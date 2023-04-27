@@ -443,7 +443,7 @@ color: #2e2f42;
    
    .section-title{
       display:flex ; 
-      /*gap: 24px;*/
+      gap: 24px;
       flex-wrap: wrap;
       column-gap: 24px;
       row-gap: 48px
