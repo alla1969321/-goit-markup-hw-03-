@@ -319,15 +319,16 @@ color: #2E2F42 ;
    display: flex;
    flex-wrap: wrap;
    gap: 24px;
-   /* justify-content:space-between; */
- }
- .mark{
-   gap: 24px;
-   border-top-left-radius: 0px;
+    justify-content:space-between; 
+    border-top-left-radius: 0px;
     border-top-right-radius: 0px ; 
     border-top-right-radius: 4px; 
     border-bottom-left-radius:4px;
  }
+
+ .mark{
+   gap: 24px;
+}
  .mark{
    flex-basis:calk((100%-72px)/4)
  }
