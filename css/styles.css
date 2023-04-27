@@ -401,7 +401,10 @@ cursor: pointer;}
 
  .site-nav-list{
    display:flex ;
-      align-items: center; 
+      align-items: center;
+      justify-content: center;
+      gap: 24px;
+      margin-bottom: 72px;
       
 }
 
@@ -410,7 +413,9 @@ cursor: pointer;}
    color: #FFFFFF;
 }
 
- 
+.portfolio-filter {
+   padding: 96px 0 120px;
+}
 
 
  
