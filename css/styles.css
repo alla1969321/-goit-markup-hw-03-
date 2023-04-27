@@ -323,6 +323,7 @@ color: #2E2F42 ;
  }
  ..mark{
    gap: 24px;
+   border-radius: 0px 0px 4px 4px;
  }
  .mark{
    flex-basis:calk((100%-72px)/4)
@@ -365,7 +366,8 @@ color: #434455;
      padding-bottom: 32px;
  }
  .staff-profession{
-   padding-top: 24px;
+   /* padding-top: 24px; */
+   padding: 32px 16px
  }
  /* portfolio */
  
