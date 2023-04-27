@@ -262,6 +262,10 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 
 }
+/* section-three */
+.section-title{
+   margin-bottom: 72px; 
+}
 /*--section-four-- */
 .mark{
    background-color: #FFFFFF;  
@@ -290,9 +294,13 @@ color: #2E2F42;
 
 }
 .work-list{
-   background-color: #FFFFFF; 
+   display: flex;
+   gap: 24px; 
+      background-color: #FFFFFF; 
 }
- 
+ .work-list-gadgets{
+   width: calc((100% - 48px) / 3);
+ }
  .feature-list .title {
         color: var(--title-text-color);
       }
