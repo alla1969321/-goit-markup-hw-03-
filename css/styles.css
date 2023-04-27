@@ -332,9 +332,9 @@ color: #2E2F42 ;
  .mark{ 
    flex-basis:calk((100%-72px)/4)
  }
- .mark:not(:nth-child(4n)){
+/* .mark:not(:nth-child(4n)){
    margin-right: 24px;
- }
+ }*/
   /*.mark:not(:nth-last-child(-n+4)) */
  .section-description{
   
