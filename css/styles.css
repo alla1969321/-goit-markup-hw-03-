@@ -251,8 +251,12 @@ color: #FFFFFF;
    width: calc((100% - 72px) / 4); 
    
  }
- .
-/* section-two */
+ /* section-two */
+.section{
+   padding: 120px 0 ; 
+}
+
+
 .title-strategy{
    margin-bottom: 8px; 
 font-weight: 500;
