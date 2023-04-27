@@ -246,11 +246,9 @@ color: #FFFFFF;
  gap: 24px;
  
  }
- .list-item-link{
-   width: calc((100% - 72px) / 4);
- }
+ 
  .about-list-item{
-   /* width: calc((100% - 72px) / 4); */
+   width: calc((100% - 72px) / 4); 
    
  }
  .
