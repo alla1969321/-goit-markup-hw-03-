@@ -227,13 +227,13 @@ color: #FFFFFF;
    line-height: 1.5;
    align-items: center;
    text-align: center;
-   display:block;
+   display:flex;
    min-width: 169px;
    height: 56px;
    border: none;
    border-radius: 4px;
     color:#FFFFFF;
-    cursor:pointer;}
+    cursor:pointer
 
 
 /*--section-two-- */
