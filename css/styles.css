@@ -284,7 +284,7 @@ color: #2E2F42;
 }
 /* section-three */
 .section-three{
-   
+   padding-bottom: 120px;
 }
 .section-title-three{ font-size: 36px;
    line-height: 1.11;
@@ -300,6 +300,7 @@ color: #2E2F42;
    background-color: #FFFFFF;  
 }
 .section-title-People{
+  
 background-color: #F4F4FD;}
 /* .masters// */
 .masters
@@ -318,7 +319,7 @@ margin-bottom: 72px;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-/*margin-top: 0;*/
+margin-bottom: 8px;
 color: #2E2F42;
 
 }
@@ -402,7 +403,7 @@ margin-bottom: 0;
    padding: 32px 16px }
    /*footer*/
 .footer{
-/*padding: 100px 0 ;*/
+padding: 100px 0 ;
 }
 
  /* portfolio */
@@ -515,8 +516,8 @@ color: #F4F4FD;
    letter-spacing: 0.03em;
    text-transform: uppercase ;
    color: #f4f4fd;
-  /* margin-bottom: 16px;
-   display: inline-block;*/
+   margin-bottom: 16px;
+   display: inline-block;
 }
 .target{
    font-weight: 400;
