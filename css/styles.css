@@ -44,8 +44,8 @@ ul,ol{margin-top: 0;
    width: 1158px; 
    margin-left: auto;  
    margin-right: auto;
-  /* padding-left: 15px;
-   padding-right: 15px;*/
+   padding-left: 15px;
+   padding-right: 15px;
    }
    .page-header-container{
       display:flex;
@@ -202,14 +202,15 @@ color: #2E2F42;
 }
 
 .hero-title{
-/*text-align: center;*/
+
 max-width: 496px;
 font-weight: 700;
 Font-size:56px;
 Line-height:1.07;
-text-align: center;
+margin-top: 46px;
+margin-bottom: 48px;
 letter-spacing: 0.02em;
-
+text-align: auto;
 color: #FFFFFF;
 }
 .modal-button{
@@ -224,7 +225,7 @@ color: #FFFFFF;
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
-   align-items: center;
+   align-items: auto;
    display: block;
    min-width: 169px;
    height: 56px;
@@ -270,7 +271,7 @@ font-size: 36px;
 }
 
 
-.title-strategy{
+.title-strategy{margin-top: 0;
    margin-bottom: 8px; 
 font-weight: 500;
 font-size: 20px;
@@ -282,6 +283,9 @@ color: #2E2F42;
 
 }
 /* section-three */
+.section-three{
+   padding-top:0;
+}
 .section-title-three{ font-size: 36px;
    line-height: 1.11;
    text-align: center;
@@ -314,7 +318,7 @@ margin-bottom: 72px;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-
+margin-top: 0;
 color: #2E2F42;
 
 }
@@ -358,7 +362,7 @@ color: #2E2F42 ;
  }*/
   /*.mark:not(:nth-last-child(-n+4)) */
  .section-description{
-  
+ /*margin: ; */
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -373,7 +377,7 @@ color: #434455;
  .staff
  {text-align: center;
    margin-top: 0;
-   margin-bottom:8px ;
+   margin-bottom:0 ;
       font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -383,14 +387,13 @@ color: #434455;
   
  .profession{
    margin-top: 0;
-   /*margin-bottom: 120px;
-   font-weight: 400;*/
+   
    text-align: center;
        font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
      color:  #434455 ;
-    /* padding-bottom: 32px;*/
+    
  }
  .staff-profession{
    /* padding-top: 24px; */
@@ -462,7 +465,7 @@ color: #2e2f42;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
-   
+  
    color: #434455;
    } 
    
@@ -489,9 +492,8 @@ color: #2e2f42;
    border-top: none;
   }
 /* footer */
-.page-footer-container{
-  /* padding: 100px 0; */
-}
+.page-footer-container{margin: 0;
+   padding: 100px 0; }
 /*.target{
    font-weight: 400;
 font-size: 16px;
