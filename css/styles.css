@@ -19,6 +19,7 @@ h4,
 ul,ol{margin-top: 0;
    /*margin-botton: 0;*/
    padding-left: 0;
+   margin-bottom: 0px;
  }
  p, h1, h2, h3 {
    margin: 0;
@@ -565,8 +566,8 @@ color: #F4F4FD;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-margin-bottom:0 auto;
+
 color: #F4F4FD;
 max-width: 264px;
-margin-top: ;
+margin-right:0 ;
 }
