@@ -419,7 +419,7 @@ margin-bottom: 0 auto;
  
    /*footer*/
    .logo-footer{
-      font-family: "Raleway",sans-serif;
+     font-family: "Raleway",sans-serif;
    font-style: normal;
    font-weight: 800;
    font-size: 18px;
@@ -434,6 +434,7 @@ margin-bottom: 0 auto;
 .footer{
 padding: 100px 0 ;
 }
+
 
  /* portfolio */
  
@@ -521,7 +522,7 @@ color: #2e2f42;
   text-align: left;
   }
 /* footer */
-.page-footer-container{margin: 0 auto;
+.page-footer-container{margin: 0 auto;}
  
 .footer{
    background: #2E2F42;
@@ -536,7 +537,7 @@ color: #2e2f42;
    /*margin-bottom: 16px;
    display: inline-block;*/
 }
-.target{
+.target{font-family: 'Roboto';
    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
